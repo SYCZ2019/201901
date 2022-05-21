@@ -6,7 +6,7 @@ const languageJson = {
         "com_school":"常州市实验初级中学",
         "com_title":"[use_com_name] 班级官网",
         "com_class":"班级官网",
-        "com_team":"201901SITE 项目组"
+        "com_team":"SYCZ2019 项目组"
     },
     "zh-tw":{
         "name":"繁體中文",
@@ -15,7 +15,7 @@ const languageJson = {
         "com_school":"常州市實驗初級中學",
         "com_title":"[use_com_name] 班級官網",
         "com_class":"班級官網",
-        "com_team":"201901SITE 項目組"
+        "com_team":"SYCZ2019 項目組"
     },
     "en-us":{
         "name":"English",
@@ -24,6 +24,6 @@ const languageJson = {
         "com_school":"ChangZhou Experimental Junior Middle School",
         "com_title":"[use_com_name] Officle Website",
         "com_class":"Officle Website",
-        "com_team":"201901SITE Project Team"
+        "com_team":"SYCZ2019 Project Team"
     }
 };
